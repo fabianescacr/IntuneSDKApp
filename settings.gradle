@@ -1,0 +1,3 @@
+include ':Microsoft.Intune.MAM.SDK'
+include ':app'
+rootProject.name = "IntuneSDK"
